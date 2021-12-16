@@ -106,7 +106,7 @@
             });
         }
         async function arenasList() {
-            const res = await fetch("./arenas.geojson")
+            const res = await fetch("./assets/arenas.geojson")
             const data = await res.json()
             data.features.map(element => {
                 const listings = document.getElementById('listings')
@@ -128,7 +128,7 @@
         }
         async function updateMap() {
 
-            const res = await fetch("./arenas.geojson")
+            const res = await fetch("./assets/arenas.geojson")
             const data = await res.json()
             map.on('load', () => {
                 data.features.map(element => {
