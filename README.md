@@ -15,11 +15,13 @@ My goal is to display where NBA stadiums are located. Information about teams su
 
 ## Applied Libraries and Services
 
-[Github](https://github.com/) [Mapbox Streets](https://www.mapbox.com/maps/streets) [Mapbox](https://studio.mapbox.com/)
+[Github](https://github.com/)\ 
+[Mapbox Streets](https://www.mapbox.com/maps/streets)\
+[Mapbox](https://studio.mapbox.com/)
 
 ## Sources
 
-[NBA Arenas](https://basketball.fandom.com/wiki/National_Basketball_Association_arenas)
+[NBA Arenas](https://basketball.fandom.com/wiki/National_Basketball_Association_arenas)\
 [NBA](https://www.nba.com/)
 
 ## Acknowledgemnts
@@ -27,4 +29,4 @@ My goal is to display where NBA stadiums are located. Information about teams su
 Professor Bo Zhao\
 Steven Bao\
 NBA\
-Mapbox\ 
+Mapbox 
