@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-lol
-=======
-
->>>>>>> 1f2db1db13957add845f975964a8740d728f7856
+### Mapping NBA Stadiums
