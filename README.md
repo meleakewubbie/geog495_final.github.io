@@ -24,7 +24,7 @@ My goal is to display where NBA stadiums are located. Information about teams su
 
 ## Acknowledgemnts
 
-Professor Bo Zhao,
-Steven Bao,
-NBA,
-Mapbox
+Professor Bo Zhao\
+Steven Bao\
+NBA\
+Mapbox\ 
