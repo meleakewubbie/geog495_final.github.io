@@ -22,7 +22,8 @@ My goal is to display where NBA stadiums are located. Information about teams su
 ## Sources
 
 [NBA Arenas](https://basketball.fandom.com/wiki/National_Basketball_Association_arenas)\
-[NBA](https://www.nba.com/)
+[NBA](https://www.nba.com/)\
+areanas.geojson
 
 ## Acknowledgemnts
 
