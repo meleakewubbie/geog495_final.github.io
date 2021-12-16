@@ -6,7 +6,7 @@ My goal is to display where NBA stadiums are located. Information about teams su
 
 ![my screenshot](https://github.com/meleakewubbie/geog495_final.github.io/blob/master/assets/screenshot.png)
 
-## Sources
+## Applied Libraries and Services
 
 [Github](https://github.com/) [Mapbox Streets](https://www.mapbox.com/maps/streets) [Mapbox](https://studio.mapbox.com/)
 
