@@ -11,7 +11,7 @@ My goal is to display where NBA stadiums are located. Information about teams su
 
 ![my screenshot](https://github.com/meleakewubbie/geog495_final.github.io/blob/master/assets/screenshot.png)
 
-![my screenshot2](https://github.com/meleakewubbie/geog495_final.github.io/blob/master/assets/screenshot.png)
+![my screenshot2](https://github.com/meleakewubbie/geog495_final.github.io/blob/master/assets/screenshot2.png)
 
 ## Applied Libraries and Services
 
