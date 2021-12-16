@@ -15,7 +15,7 @@ My goal is to display where NBA stadiums are located. Information about teams su
 
 ## Applied Libraries and Services
 
-[Github](https://github.com/)\ 
+[Github](https://github.com/)\   
 [Mapbox Streets](https://www.mapbox.com/maps/streets)\
 [Mapbox](https://studio.mapbox.com/)
 
