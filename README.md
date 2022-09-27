@@ -27,7 +27,7 @@ areanas.geojson
 
 ## Acknowledgemnts
 
-Professor Bo Zhao\
+Bo Zhao\
 Steven Bao\
 NBA\
 Mapbox 
