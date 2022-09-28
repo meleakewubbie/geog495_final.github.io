@@ -2,7 +2,7 @@
 
 ## Application URL
 
-[Application](https://meleakewubbie.github.io/geog495_final.github.io/index.html) 
+[Application](https://meleakewubbie.github.io/nba_stadiums/) 
 
 ## Description
 
